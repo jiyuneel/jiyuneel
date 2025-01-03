@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Jiyun%20Lee&fontSize=60&fontAlignY=40&animation=twinkling)
+
 ## 📚 Education
 * **중앙대학교 소프트웨어학부** (2020.03 ~ )
 
